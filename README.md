@@ -26,7 +26,7 @@ Devices located in Building A must obtain dynamic IP addressing through a router
 Project Tasks
 
 Task 1: Plan, design, and prototype the complete network topology for BeGreat University using Cisco Packet Tracer. This task focuses on architectural planning, logical segmentation, and infrastructure layout. 
-### Check out the design here [Network Architecture](Network_Architecture.png)
+### Check out the design here [Network Architecture](Network_Topology/Network_Architecture.png)
 
 Task 2: Implement and configure the network within Cisco Packet Tracer using appropriate protocols, addressing schemes, VLAN configurations, and routing mechanisms to meet all specified requirements.
 ### Check out the document that have all layer 2 switches configuration here 
