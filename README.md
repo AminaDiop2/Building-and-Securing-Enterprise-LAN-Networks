@@ -38,6 +38,4 @@ Project Tasks:
 #### Check out the document that have all devices configuration as well as the connectivity test [here](Configurations/Devices_Config.pdf)
 
 
-*Task 3: Produce a professional technical report (maximum 1500 words) evaluating your proposed network design. The evaluation must include a critical appraisal of performance, scalability, reliability, and security considerations.
-
 
