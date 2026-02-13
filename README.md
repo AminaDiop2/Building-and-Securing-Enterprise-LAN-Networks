@@ -9,7 +9,7 @@ The purpose of this lab is to design, configure, and evaluate a secure, scalable
 
 Project Requirements:
 
-### Step 1:Develop a comprehensive network topology incorporating all major infrastructure components necessary to support the following environment:
+### Step 1: Develop a comprehensive network topology incorporating all major infrastructure components necessary to support the following environment:
 
 ***Main Campus***:
 Building A: Hosts the Administrative departments including Management, Human Resources, and Finance. Administrative staff PCs are distributed across multiple offices and are expected to share networking infrastructure. The implementation of Virtual LANs (VLANs) is required to logically segment departments while utilizing shared switching hardware. The Faculty of Business is also located within this building.
