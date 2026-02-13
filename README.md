@@ -32,14 +32,10 @@ Project Tasks:
 
 ***Task 1: Plan, design, and prototype the complete network topology for BeGreat University using Cisco Packet Tracer. This task focuses on architectural planning, logical segmentation, and infrastructure layout.***
 
-#### Check out the design here [Network Architecture](Network_Topology/Network_Architecture.png)
+#### Check out the design [here](Network_Topology/Network_Architecture.png)
 
 ***Task 2: Implement and configure the network within Cisco Packet Tracer using appropriate protocols, addressing schemes, VLAN configurations, and routing mechanisms to meet all specified requirements.***
-##### Check out the document that have all layer 2 switches configuration here 
-##### Check out the document that have all layer 3 switches configuration here 
-##### Check out the document that have the main campus router configuration here 
-##### Check out the document that have the second campus router configuration here 
-##### Check out the document that have the Cloud router configuration here 
+##### Check out the document that have all devices configuration as well as the connectivity test [here](Configuration/Device_Config)
 
 
 *Task 3: Produce a professional technical report (maximum 1500 words) evaluating your proposed network design. The evaluation must include a critical appraisal of performance, scalability, reliability, and security considerations.
