@@ -35,7 +35,7 @@ Project Tasks:
 #### Check out the design [here](Network_Topology/Network_Architecture.png)
 
 ***Task 2: Implement and configure the network within Cisco Packet Tracer using appropriate protocols, addressing schemes, VLAN configurations, and routing mechanisms to meet all specified requirements.***
-##### Check out the document that have all devices configuration as well as the connectivity test [here](Configuration/Device_Config)
+##### Check out the document that have all devices configuration as well as the connectivity test [here](Configurations/Devices_Config.pdf)
 
 
 *Task 3: Produce a professional technical report (maximum 1500 words) evaluating your proposed network design. The evaluation must include a critical appraisal of performance, scalability, reliability, and security considerations.
